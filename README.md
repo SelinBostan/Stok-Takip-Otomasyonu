@@ -1,1 +1,5 @@
-# Stok-Takip-Otomasyonu
+![5](https://github.com/SelinBostan/Stok-Takip-Otomasyonu/assets/73159701/a1f67cf3-8947-4588-8817-dd311c767608)
+![4](https://github.com/SelinBostan/Stok-Takip-Otomasyonu/assets/73159701/3889a3a4-d441-43db-b906-c492f838681c)
+![3](https://github.com/SelinBostan/Stok-Takip-Otomasyonu/assets/73159701/22a6f68d-8f1b-40f8-b448-0f81d243674b)
+![2](https://github.com/SelinBostan/Stok-Takip-Otomasyonu/assets/73159701/d5f1f258-4d9a-4dad-adb9-bae18d6599bc)
+![6](https://github.com/SelinBostan/Stok-Takip-Otomasyonu/assets/73159701/aafb2188-99d3-4dc6-91e4-c18cbba8bca9)
